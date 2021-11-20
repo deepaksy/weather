@@ -1,0 +1,7 @@
+.navbarLink{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbarLink:hover{
+    color: blanchedalmond;
+}
